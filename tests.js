@@ -37,6 +37,10 @@ function runTests() {
 }
 
 test(function() {
+  assertEqual(0, 1);
+});
+
+test(function() {
   assertEqual(1, 1);
 });
 

@@ -55,24 +55,24 @@ p {
   padding: 5px;
 }
 
-.button {
+.c-button {
   padding: 5px 20px;
   line-height: 1.5;
   border: 1px solid transparent;
   border-radius: .25rem;
 }
 
-.button-primary {
+.c-button-primary {
   color: white;
   border-color: green;
   background-color: green;
 }
 
-.button-secondary {
+.c-button-secondary {
   background-color: #C6C6C6;
   border-color: #9F9F9F;
 }
 
-.button-group .button:not(:last-child) {
+.c-button-group .c-button:not(:last-child) {
   margin-right: 20px;
 }

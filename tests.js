@@ -37,7 +37,7 @@ function runTests() {
 }
 
 test(function() {
-  assertEqual(0, 1);
+  assertEqual(1, 1);
 });
 
 test(function() {

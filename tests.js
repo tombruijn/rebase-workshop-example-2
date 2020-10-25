@@ -48,4 +48,8 @@ test(function() {
   assertEqual(2, 2);
 });
 
+test(function() {
+  assertEqual(3, 3);
+});
+
 runTests();
